@@ -40,15 +40,15 @@ namespace DesarrolloAppsMoviles.ViewModels
         }
         public void OnSubmit()
         {
-            if (username == null)
+            if (username == null|| username=="")
             {
                 DisplayInvalidUserLoginPrompt();
             }
-            else if (password == null)
+            else if (password == null|| password=="")
             {
                 DisplayInvalidPasswordLoginPrompt();
             }
-            else if(password != null && username != null)
+            else if(password != null && password != "" && username != null && username != "")
             {
                 DisplayValidLogin();
             }            
