@@ -1,0 +1,15 @@
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\bin\Debug\netstandard2.0\DesarrolloAppsMoviles.deps.json
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\bin\Debug\netstandard2.0\DesarrolloAppsMoviles.dll
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\bin\Debug\netstandard2.0\ref\DesarrolloAppsMoviles.dll
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\bin\Debug\netstandard2.0\DesarrolloAppsMoviles.pdb
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\obj\Debug\netstandard2.0\DesarrolloAppsMoviles.csproj.AssemblyReference.cache
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\obj\Debug\netstandard2.0\DesarrolloAppsMoviles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\obj\Debug\netstandard2.0\DesarrolloAppsMoviles.AssemblyInfoInputs.cache
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\obj\Debug\netstandard2.0\DesarrolloAppsMoviles.AssemblyInfo.cs
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\obj\Debug\netstandard2.0\DesarrolloAppsMoviles.csproj.CoreCompileInputs.cache
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\obj\Debug\netstandard2.0\DesarrolloAppsMoviles.dll
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\obj\Debug\netstandard2.0\ref\DesarrolloAppsMoviles.dll
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\obj\Debug\netstandard2.0\DesarrolloAppsMoviles.pdb

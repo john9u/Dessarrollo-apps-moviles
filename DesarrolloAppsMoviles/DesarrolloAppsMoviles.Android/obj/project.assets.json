@@ -971,7 +971,7 @@
           "buildTransitive/monoandroid50/Xamarin.Google.Guava.ListenableFuture.targets": {}
         }
       },
-      "DesarrolloAppsMoviles/1.0.0": {
+      "desarrolloappsmoviles/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -979,10 +979,10 @@
           "Xamarin.Forms": "5.0.0.2012"
         },
         "compile": {
-          "bin/placeholder/DesarrolloAppsMoviles.dll": {}
+          "bin/placeholder/desarrolloappsmoviles.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DesarrolloAppsMoviles.dll": {}
+          "bin/placeholder/desarrolloappsmoviles.dll": {}
         }
       }
     }
@@ -2128,7 +2128,7 @@
         "xamarin.google.guava.listenablefuture.nuspec"
       ]
     },
-    "DesarrolloAppsMoviles/1.0.0": {
+    "desarrolloappsmoviles/1.0.0": {
       "type": "project",
       "path": "../DesarrolloAppsMoviles/DesarrolloAppsMoviles.csproj",
       "msbuildProject": "../DesarrolloAppsMoviles/DesarrolloAppsMoviles.csproj"
@@ -2136,9 +2136,9 @@
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v11.0": [
-      "DesarrolloAppsMoviles >= 1.0.0",
       "Xamarin.Essentials >= 1.6.1",
-      "Xamarin.Forms >= 5.0.0.2012"
+      "Xamarin.Forms >= 5.0.0.2012",
+      "desarrolloappsmoviles >= 1.0.0"
     ]
   },
   "packageFolders": {
