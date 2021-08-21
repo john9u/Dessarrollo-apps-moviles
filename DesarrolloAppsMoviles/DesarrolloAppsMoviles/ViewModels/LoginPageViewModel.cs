@@ -11,15 +11,16 @@ namespace DesarrolloAppsMoviles.ViewModels
     {
         public Action DisplayInvalidPasswordLoginPrompt;
         public Action DisplayInvalidUserLoginPrompt;
+        public Action DisplayValidLogin;
         public event PropertyChangedEventHandler PropertyChanged = delegate { };
         private string username;
-        public string Username
+        public string UserName
         {
             get { return username; }
             set
             {
                 username = value;
-                PropertyChanged(this, new PropertyChangedEventArgs("Username"));
+                PropertyChanged(this, new PropertyChangedEventArgs("UserName"));
             }
         }
         private string password;
@@ -47,6 +48,10 @@ namespace DesarrolloAppsMoviles.ViewModels
             {
                 DisplayInvalidPasswordLoginPrompt();
             }
+            else if(password != null && username != null)
+            {
+                DisplayValidLogin();
+            }            
         }
     }
 }

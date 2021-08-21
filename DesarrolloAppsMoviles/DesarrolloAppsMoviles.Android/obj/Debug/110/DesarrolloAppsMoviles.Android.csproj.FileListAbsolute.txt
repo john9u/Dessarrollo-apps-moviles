@@ -574,3 +574,4 @@ C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMovile
 C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles.Android\obj\Debug\110\res\drawable\logo.png

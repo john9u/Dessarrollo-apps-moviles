@@ -13,3 +13,4 @@ C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMovile
 C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\obj\Debug\netstandard2.0\DesarrolloAppsMoviles.dll
 C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\obj\Debug\netstandard2.0\ref\DesarrolloAppsMoviles.dll
 C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\obj\Debug\netstandard2.0\DesarrolloAppsMoviles.pdb
+C:\Repositorios\DesarrolloAppsMoviles\DesarrolloAppsMoviles\DesarrolloAppsMoviles\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs

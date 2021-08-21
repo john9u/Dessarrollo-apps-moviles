@@ -19,10 +19,19 @@ namespace DesarrolloAppsMoviles
             this.BindingContext = vm;
             vm.DisplayInvalidUserLoginPrompt += () => DisplayAlert("Error", "Campo Usuario no puede estar vacio", "OK");
             vm.DisplayInvalidPasswordLoginPrompt += () => DisplayAlert("Error", "Campo Contraseña no puede estar vacio","OK");
+            vm.DisplayValidLogin += () => DisplayAlert("Bienvenido", $"Hola {UserName.Text}", "OK");
             InitializeComponent();
 
-            UsernameEntry.Completed += (sender, args) => { PasswordEntry.Focus(); };
-            PasswordEntry.Completed += (sender, args) => { vm.AuthenticateCommand.Execute(null); };
+
+            UserName.Completed += (object sender, EventArgs e) =>
+            {
+                Password.Focus();
+            };
+
+            Password.Completed += (object sender, EventArgs e) =>
+            {
+                vm.SubmitCommand.Execute(null);
+            };
         }
     }
 }
